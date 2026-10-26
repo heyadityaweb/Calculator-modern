@@ -1,0 +1,6 @@
+{
+  "name": "GraphCalc",
+  "description": "Modern scientific and graphing calculator for high school and university mathematics with interactive multi-function graphing, calculus analysis, matrix operations, and complex numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

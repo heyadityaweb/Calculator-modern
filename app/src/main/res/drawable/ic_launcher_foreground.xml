@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Faint Coordinate Grid Lines -->
+    <path
+        android:strokeColor="#25334D"
+        android:strokeWidth="1"
+        android:pathData="M24,38 L84,38 M24,70 L84,70 M38,24 L38,84 M70,24 L70,84" />
+
+    <!-- Main Coordinate Axes -->
+    <path
+        android:strokeColor="#475569"
+        android:strokeWidth="1.6"
+        android:pathData="M22,54 L86,54 M54,22 L54,86" />
+
+    <!-- Axis Arrows -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M86,54 L82,51.5 L82,56.5 Z M54,22 L51.5,26 L56.5,26 Z" />
+
+    <!-- Smooth Mathematical Graph Curve f(x) -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M26,72 C32,72 36,36 44,36 C50,36 50,72 56,72 C64,72 68,36 82,36" />
+
+    <!-- Secondary integral/asymptote curve -->
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M28,42 C38,44 48,50 54,54 C60,58 70,64 80,66" />
+
+    <!-- Key Analysis Points (Roots / Extrema) -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M44,36 A3,3 0 1 1 44,35.99 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M56,72 A3,3 0 1 1 56,71.99 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,54 A2.5,2.5 0 1 1 54,53.99 Z" />
+</vector>
